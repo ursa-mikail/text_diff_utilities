@@ -1,6 +1,10 @@
 # Text Diff Utilities
 
-text_diff_color_utilities.py: diff the strings and highlight in different colors, e.g. removed in <p style="color:red;">red</p>, add in <p style="color:green;">green</p> (amend), and change without lengthening in <p style="color:blue;">blue</p> (emend)
+
+**text_diff_color_utilities.py**: This script highlights differences between strings using colors:  
+- **Removed text** in <span style="color:red;">red</span>  
+- **Added text** in <span style="color:green;">green</span> (amend)  
+- **Modified text without length change** in <span style="color:blue;">blue</span> (emend)  
 
 
 ![text_diff_color_utilities](text_diff_color_utilities.png)
